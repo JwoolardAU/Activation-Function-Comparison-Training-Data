@@ -1,0 +1,2 @@
+# Activation-Function-Comparison-Training-Data
+This repository is meant to provide the training data used in my academic paper. Please feel free to use any training data files to replicate my experiments.
